@@ -1,3 +1,4 @@
+'use client'
 import { useNotes } from '@/contexts/NotesContext'
 import NoteItem from './NoteItem'
 
