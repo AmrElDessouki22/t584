@@ -1,2 +1,3 @@
-# t584
-AI Generated Next.js Project: t584
+### Core Config Files
+
+#### package.json
